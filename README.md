@@ -1,5 +1,5 @@
 # archiinfo
-répertoire des réalisations
+Répertoire des réalisations
 
 
 ## Bienvenue sur mon répertoire
